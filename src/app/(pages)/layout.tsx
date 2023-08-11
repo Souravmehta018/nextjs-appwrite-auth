@@ -49,6 +49,6 @@ const ProtectedLayout = ({
             )}
         </AuthProvider>
 
-}
+})
 
 export default ProtectedLayout;
